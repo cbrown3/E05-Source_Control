@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignments", "Assignments", "{124C8EDD-52BA-4EAA-A1F4-6D4302AB5DEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{77A006BE-0096-461D-AC30-32ECAA2B3FDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ICEs", "ICEs", "{0B1C8EE7-E852-45B2-A546-BE37B521048A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{8A9C6231-C3D4-493B-A18E-E134FC3A1A35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{DFB78115-51B7-4330-854D-9AF8B21B4D47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Temp", "Temp", "{54B0557B-2C68-488D-9553-BF7F893657BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{30329165-8C18-46CB-A4F4-A05ADB2AE1DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E05_Repository", "E05_Repository\E05_Repository.vcxproj", "{08338475-60B0-4C2C-A047-6E348B7DABEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08338475-60B0-4C2C-A047-6E348B7DABEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{08338475-60B0-4C2C-A047-6E348B7DABEE}.Debug|x86.Build.0 = Debug|Win32
+		{08338475-60B0-4C2C-A047-6E348B7DABEE}.Release|x86.ActiveCfg = Release|Win32
+		{08338475-60B0-4C2C-A047-6E348B7DABEE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08338475-60B0-4C2C-A047-6E348B7DABEE} = {0B1C8EE7-E852-45B2-A546-BE37B521048A}
+	EndGlobalSection
+EndGlobal
